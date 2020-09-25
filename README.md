@@ -1,4 +1,4 @@
-# Ekko Proxy WireMock Editor
+# Ekko Proxy WireMock Editor 1.4
 The Ekko Proxy WireMock Editor lets you manage wiremocks for Ekko Proxy instances. Configured mocks are saved to a mocks folder (relative to the application) making them available to Ekko Proxy instances or they can be used by WireMock standalone in JUnits etc.
 
 WireMock Editor Screenshot:
